@@ -61,7 +61,7 @@ PIN DIAGRAM FOR ATMEGA 328
 FIGURE-01
 
 
-https://github.com/vignesh0011/EXP-02-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/blob/main/4.png
+![image](https://github.com/vignesh0011/EXP-02-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/blob/main/4.png)
 
 
 
@@ -124,7 +124,7 @@ void loop()
 
 Output of the simulation :
 
-![exp 2 rbt](4.png)
+![image](https://github.com/vignesh0011/EXP-02-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/blob/main/4.png)
 
 # RESULT: 
 
