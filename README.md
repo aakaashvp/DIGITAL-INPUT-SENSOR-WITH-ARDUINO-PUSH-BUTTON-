@@ -61,7 +61,7 @@ PIN DIAGRAM FOR ATMEGA 328
 FIGURE-01
 
 
-![image](https://user-images.githubusercontent.com/36288975/163530431-4d390e98-0942-42d8-95b8-f57d348e6ad8.png)
+https://github.com/vignesh0011/EXP-02-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/blob/main/4.png
 
 
 
