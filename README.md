@@ -89,7 +89,7 @@ FIGURE-01
 
 FIGURE -02
 
-![exp 2 rbt](4.png)
+![image](https://github.com/vignesh0011/EXP-02-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/blob/main/4.png)
 
 
 
